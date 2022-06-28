@@ -2,8 +2,8 @@
 
   ##
 
-- 🔭 Atualmente sou estagiaria da Equatorial
-- 🌱 Estudando Javascript
+- 🔭 Atualmente sou estagiaria da Noz como Desenvolvedora Web
+- 🌱 Estudando Javascript,PHP
 - 👯 Procuro colaborar no segmento de desenvolvimento WEB
 - 📫 Contate-me no email: naomy.programmer@gmail.com ou via linkedln <https://www.linkedin.com/in/naomy-leticia-5045aa212>
 - 😄 Pronouns: ela/dela
