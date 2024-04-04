@@ -3,7 +3,7 @@
   ##
 
 - 🔭 Atualmente sou Desenvolvedora Web JR
-- 🌱 Estudando Javascript,Node.js
+- 🌱 trabalhando Javascript,Node.js, vue.js e flutter
 - 👯 Procuro colaborar no segmento de desenvolvimento WEB
 - 📫 Contate-me no email: naomy.programmer@gmail.com ou via linkedln <https://www.linkedin.com/in/naomy-leticia-5045aa212>
 - 😄 Pronouns: ela/dela
